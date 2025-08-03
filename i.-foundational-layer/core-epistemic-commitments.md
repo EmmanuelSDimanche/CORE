@@ -4,10 +4,10 @@ description: Knowing as Alignment Within the Symbolic Grammar
 
 # CORE Epistemic Commitments
 
-{% hint style="info" %}
-<mark style="color:$info;">**CORE does not describe systems. It holds t**</mark><mark style="color:$info;">h</mark><mark style="color:$info;">**e symbolic structure by which living systems know themselves.**</mark>
+{% hint style="warning" %}
+<mark style="color:$primary;">**CORE does not describe systems. It holds t**</mark><mark style="color:$primary;">h</mark><mark style="color:$primary;">**e symbolic structure by which living systems know themselves.**</mark>
 
-<mark style="color:$info;">**This ontology is grounded in a specific epistemic logic: that systems are known only through relationship, that coherence must be engaged to be perceived, and that knowledge is structurally constrained by alignment. This is not a preference.**</mark> \ <mark style="color:$info;">**It is an ontological consequence of relational reality.**</mark>
+<mark style="color:$primary;">**This ontology is grounded in a specific epistemic logic: that systems are known only through relationship, that coherence must be engaged to be perceived, and that knowledge is structurally constrained by alignment. This is not a preference.**</mark> \ <mark style="color:$primary;">**It is an ontological consequence of relational reality.**</mark>
 {% endhint %}
 
 CORE rests on the following epistemic commitments. They define how coherence is encountered, how structure is revealed, and how understanding can propagate without collapse.
