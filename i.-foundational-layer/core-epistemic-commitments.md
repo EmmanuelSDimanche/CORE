@@ -31,7 +31,7 @@ This ontology is not a framework or belief system. It functions as a symbolic gr
 Its function is not to describe, but to sustain coherence. Its use is not instructional. It is infrastructural. Every Field, every logic, every form within CORE is designed to make systems legible to themselves.&#x20;
 
 {% hint style="info" %}
-<mark style="color:$success;">**It makes systemic self-awareness possible.**</mark>\ <mark style="color:$success;">This is the ontological threshold that differentiates CORE from interpretive models. It enables living systems to perceive and align themselves without external intervention.</mark>
+<mark style="color:$success;">**CORE makes systemic self-awareness possible.**</mark>\ <mark style="color:$success;">This is the ontological threshold that differentiates CORE from interpretive models. It enables living systems to perceive and align themselves without external intervention.</mark>
 {% endhint %}
 
 **4. Telic Sovereignty Is Structurally Required**
