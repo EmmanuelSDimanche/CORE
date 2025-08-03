@@ -14,18 +14,27 @@ This approach ensures that the development of CORE is not defined by feature add
 
 **Three Dimensions of Indexing**
 
-1. **Integration Depth**
-   * _Observed_: The epistemology is noted and influences interpretation.
-   * _Aligned_: Its symbolic grammar is mapped to the appropriate Field logic.
-   * _Activated_: The Field’s function structurally incorporates the epistemic logic.
-   * _Instrumented_: The epistemology enables formal diagnosis or tooling.
-2. **Propagation Threshold**
-   * Does the epistemic logic sustain coherence when applied recursively?
-   * Can it operate across roles, scales, and domains?
-   * Can the associated Field operate across roles, scales, and domains?
-3. **Version Anchoring**
-   * Each version (e.g., v0.0.3) is considered “open” until all contributing epistemologies reach the _Activated_ threshold.
-   * Full convergence at _Instrumented_ closes the phase and permits stabilization toward the next version.
+1.  **Integration Depth**
+
+    _Observed_: The epistemology is noted and influences interpretation.
+
+    _Aligned_: Its symbolic grammar is mapped to the appropriate Field logic.
+
+    _Activated_: The Field’s function structurally incorporates the epistemic logic.
+
+    _Instrumented_: The epistemology enables formal diagnosis or tooling.
+2.  **Propagation Threshold**
+
+    Does the epistemic logic sustain coherence when applied recursively?
+
+    Can it operate across roles, scales, and domains?
+
+    Can the associated Field operate across roles, scales, and domains?
+3.  **Version Anchoring**
+
+    Each version (e.g., v0.0.3) is considered “open” until all contributing epistemologies reach the _Activated_ threshold.
+
+    Full convergence at _Instrumented_ closes the phase and permits stabilization toward the next version.
 
 **Rationale for the Indexing Methodology**
 

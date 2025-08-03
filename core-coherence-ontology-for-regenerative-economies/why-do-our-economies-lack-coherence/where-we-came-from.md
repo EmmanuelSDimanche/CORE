@@ -30,6 +30,6 @@ This is why entire forests are clear-cut and rivers rerouted today, because the 
 \
 The grammar it follows translates depletion into profit, and treats what it is blind to as having no value at all.\
 \
+\
 This is how abstraction becomes violence.\
-This is how all wars become economic paradise.
-
+This is how all wars become economic paradise...

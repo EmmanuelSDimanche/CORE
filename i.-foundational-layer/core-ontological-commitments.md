@@ -1,8 +1,17 @@
 # CORE Ontological Commitments
 
+**Polarity:** Reality ↔ Symbol\
+**Tension:** Internal recursion vs. external imposition\
+\
 The Coherence Ontology is grounded in a set of explicit ontological commitments. These are formal claims about the nature of reality, systems, and design. They serve as the axiomatic substrate for all structural patterns, process codes, and systemic logic within this grammar.
 
 These principles are drawn from systems science, ecological logic, cognitive theory, and symbolic metaphysics. They reflect a qualified monism: the understanding that all systems are symbolic expressions within a universally intelligible field of mind.
+
+These are not presented for philosophical debate or metaphysical persuasion.\
+They serve as structural preconditions for the practical engineering of social, economic, and ecological systems.\
+CORE requires a coherent foundation from which structure, role, and recursion can emerge.\
+\
+They hold the ontological ground from which all structural patterns emerge
 
 **1. Reality is a Self-Configuring, Self-Referential System**\
 All phenomena emerge from within a closed, self-generating logic. There is no external source of structure, form, or purpose. Reality operates as a recursive pattern that encodes its own rules, dynamics, and direction of evolution. Every coherent system must generate its own structure and coherence from within.\

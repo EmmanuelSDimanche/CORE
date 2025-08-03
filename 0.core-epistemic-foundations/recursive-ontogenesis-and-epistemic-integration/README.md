@@ -1,7 +1,3 @@
----
-description: <THIS SECTION IS UNDER CONSTRUCTION>
----
-
 # Recursive Ontogenesis and Epistemic Integration
 
 The development of CORE does not follow a roadmap of incremental updates. It unfolds through recursive ontogenesis. Each phase integrates distinct epistemic grammars that activate structural capacity. \

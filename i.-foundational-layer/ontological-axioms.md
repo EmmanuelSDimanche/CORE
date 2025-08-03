@@ -1,7 +1,7 @@
 # Ontological Axioms
 
-Polarity: Structure ↔ Flow \
-Tension: Fixed form versus rhythmic propagation.
+**Polarity**: Structure ↔ Flow \
+**Tension:** Fixed form versus rhythmic propagation.
 
 **CORE is founded on explicit ontological commitments.  These are claims about the nature of reality that guide its structural logic, regenerative purpose, and systemic coherence.**\
 These are not beliefs. They are operational axioms required for regenerative system design.
@@ -29,8 +29,8 @@ CORE adopts the biological truth that form defines the domain of possible functi
 
 #### 5. Care is a Primary Systemic Force
 
-Care is not sentiment. It is the structuring of attention across time.\
-It is what sustains relational integrity across roles, flows, and fields.\
+Care is not sentiment. It is the structuring of attention across time.  It is what sustains relational integrity across roles, flows, and fields.\
+\
 Without care, no coherence can be sustained. Without coherence, no system can regenerate.\
 Care is a relational condition that sustains coherence. It is the active structuring of attention across time and fields.
 
@@ -47,6 +47,7 @@ A system is regenerative only if it structurally propagates coherence, capacity,
 #### 8. Economy is a Social Circulatory System
 
 The economy is not a market. It is a circulatory logic _of_ collective life.\
+\
 CORE views economic systems not as bundles of market mechanisms, but as the structural intelligence by which communities meet needs, allocate surplus, and ensure mutual viability. Human economies must be re-formed around this understanding in order to serve life.
 
 \

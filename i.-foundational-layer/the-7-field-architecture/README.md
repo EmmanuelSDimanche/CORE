@@ -1,8 +1,12 @@
 ---
 description: Structural Pattern
+icon: circle-7
 ---
 
 # The 7-Field Architecture
+
+**Polarity:** Symbolic recursion ↔ Systemic coherence\
+**Tension:** Irreducibility vs. composability
 
 The 7-Field Architecture defines the structural grammar that enables regenerative systems to hold coherence, metabolize feedback, and propagate alignment across time and scale.  It is the symbolic infrastructure required for systems to remain alive.
 
