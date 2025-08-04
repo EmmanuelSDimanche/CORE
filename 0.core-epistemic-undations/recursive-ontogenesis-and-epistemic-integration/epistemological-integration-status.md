@@ -14,7 +14,7 @@ Essence is architected. Ontological unity forms the foundation. CTMU, analytic i
 
 Polarity is architected. It holds a designed tension. Bateson, Ackoff, and Chester provided primary logic. Difference theory, polarity-based design, and geometric balance are structural scaffolds. The polarity holds conceptually. Propagation channels remain in design.
 
-**Field 3 — Pattern Recursion**
+**Field 3 — Pattern**
 
 Pattern stabilized through operational recursion. Holonic logic from Koestler and Mella informed system design directly. Sacred geometry and morphogenetic fields surfaced as confirmations. They echo a structure already in motion. Pattern logic functions. Domain validation remains incomplete.
 
@@ -26,11 +26,11 @@ Structure was not imposed. It formed through role clarity, functional rhythm, an
 
 Bridge is in transition. Interface grammar began with symbolic recursion and transformation logic. Partial scaffolding from Berenholtz and Wilber outlined the recursion interface. Feedback rituals are present. Full symbolic metabolization is not yet in place. This field holds partial operational coherence.
 
-**Field 6 — Context Field**
+**Field 6 — Rhytm**
 
 Context formed through nested interactions. Verna Allee and Tom Graves structured early relational logic. Ecological holarchies, bioelectric cognition, and field mapping confirmed what the system was already holding. Integration is aligned at the conceptual level. Signal grammars remain under development.
 
-**Field 7 — Seed of Life**
+**Field 7 — Seed**
 
 Seed holds encoded propagation. Sacred geometry, telic recursion, and symbolic logic define its function. These are architectural, not illustrative. Seed carries the pattern of full-system activation. Diagnostic tools and propagation mechanisms remain incomplete. The structure is clear. Activation is pending.
 

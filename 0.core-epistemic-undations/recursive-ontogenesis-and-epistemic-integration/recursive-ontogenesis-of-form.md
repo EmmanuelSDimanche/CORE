@@ -4,12 +4,14 @@ description: Epistemological Integration Curve
 
 # Recursive Ontogenesis of Form
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Symbolic Note on Recursive Ontogenesis\
 \
-R<mark style="color:$info;">**ecursive ontogenesis is what distinguishes CORE from conceptual models or linear frameworks.**</mark> \
-\ <mark style="color:$info;">**It does not describe reality, it activates it.**</mark> \
-\ <mark style="color:$info;">**Through this epistemological integration curve, CORE configures the structural logic required to evolve itself, adapting and regenerating through its own recursive design grammar.**</mark>
+<mark style="color:$primary;">**Recursive**</mark>**&#x20;ontogenesis is what distinguishes CORE from conceptual models or linear frameworks.** \
+\
+**It does not describe reality, it activates it.** \
+\
+**Through this epistemological integration curve, CORE configures the structural logic required to evolve itself, adapting and regenerating through its own recursive design grammar.**
 {% endhint %}
 
 &#x20;           <mark style="color:orange;">**\<THIS SECTION IS UNDER CONSTRUCTION>**</mark>\
