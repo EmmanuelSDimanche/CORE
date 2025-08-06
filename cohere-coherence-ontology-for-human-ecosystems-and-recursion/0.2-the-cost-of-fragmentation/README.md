@@ -1,10 +1,10 @@
 ---
-description: Telos -- Human Scale Understanding
+description: Why We Can’t Build What We Need
 ---
 
-# Why Do Our Economies Lack Coherence?
+# 0.2 The Cost of Fragmentation
 
-> _“The major problems in the world are the result of the difference between how nature works and how people think.” —_ **Gregory Bateson**
+> “There is no such thing as separate.” — Nora Bateson
 
 **Human designed systems fail not from a lack of technology but from a lack of coherence. CORE provides the structure to regenerate coherence at every scale.**
 
