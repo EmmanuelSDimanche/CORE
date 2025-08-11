@@ -1,4 +1,4 @@
-# How: CORE as a Grammar of Coherence
+# COHERE as a Grammar of Coherence
 
 The ledger need not be discarded. But it must be transcended. CORE offers the symbolic grammar to start that shift.\
 It encodes coherence where the ledger encoded control.
@@ -19,8 +19,8 @@ Metabolized through a **7-Field Architecture**:
 * **Pattern** — What recurs and replicates
 * **Structure** — What scaffolds responsibility and enables distributed agency
 * **Bridge** — What holds dynamic transformation without collapse
-* **Context Field** — What shapes environmental context and systemic flows
-* **Seed of Life** — What the system can reliably propagate and regenerate
+* **Rhythm** — What shapes environmental context and systemic flows
+* **Seed** — What the system can reliably propagate and regenerate
 
 CORE enables systems to hold alignment without flattening life into function or reducing value to price.
 

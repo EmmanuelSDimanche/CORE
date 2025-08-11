@@ -1,17 +1,17 @@
 ---
-description: Foundational Figures in the Symbolic Infrastructure of CORE
+description: Foundational Figures in the Symbolic Infrastructure of COHERE
 ---
 
 # Appendix A — Epistemic Lineage and Structural Contributions
 
 **Purpose and Role**\
-Appendix A defines the epistemic lineage of the CORE Ontology through functional contribution, not historical citation. CORE emerges through ontological recursion, not conceptual synthesis.  It holds only those figures whose structural logic is presently active in the design, propagation, or recursive coherence of the 7-Field Architecture. This is not a bibliography. Its meant to be a **symbolic map of embedded epistemic functions**.
+Appendix A defines the epistemic lineage of the COHERE Ontology through functional contribution, not historical citation. COHERE emerges through ontological recursion, not conceptual synthesis.  It holds only those figures whose structural logic is presently active in the design, propagation, or recursive coherence of the 7-Field Architecture. This is not a bibliography. Its meant to be a **symbolic map of embedded epistemic functions**.
 
 **Inclusion Prerequisites (All Entries)**\
 A figure is included only if:
 
 1. **Field Activation**: Their work affirms a principle structurally embedded in one or more canonical Fields of the 7-Field Ontology.
-2. **Current Integration**: Their contribution is _active_ in the current version of CORE’s Ontology (v0.0.1+), not merely inspirational or historical.
+2. **Current Integration**: Their contribution is _active_ in the current version of COHERE’s Ontology (v0.0.1+), not merely inspirational or historical.
 
 
 
@@ -21,7 +21,7 @@ All entries must satisfy the following:
 
 * **Propagation Function**: They must _generate_, _translate_, _scale_, or _bound_ systemic coherence.
 * **Symbolic Distinction**: Their contribution must be structurally unique—no redundancies or overlaps.
-* **Ontological Activation**: They must currently shape or scaffold one or more Fields within CORE. Future potential is not sufficient.
+* **Ontological Activation**: They must currently shape or scaffold one or more Fields within COHERE. Future potential is not sufficient.
 
 
 

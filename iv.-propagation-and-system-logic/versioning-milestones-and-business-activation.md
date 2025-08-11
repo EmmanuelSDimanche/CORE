@@ -1,5 +1,5 @@
 ---
-description: How Versioning Generates Value
+description: How Versioning Makes Structural Value Visible
 ---
 
 # Versioning Milestones and Business Activation

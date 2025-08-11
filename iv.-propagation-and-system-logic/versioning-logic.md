@@ -1,9 +1,15 @@
+---
+description: Map of Ontological Development and Phase Readiness
+---
+
 # Versioning Logic
 
-The CORE Ontology does not evolve through linear development. Its structure emerges through recursive ontogenesis. Each version marks a distinct phase of activation, aligned with the architecture of living systems. Versioning does not track time. It expresses structural readiness, ontological integration, and developmental alignment.
+The COHERE Ontology does not evolve by linear development or feature addition. Its form emerges through recursive ontogenesis. Each version marks a distinct phase of activation aligned with the logic of living systems.
 
-Each sub-phase (v0.0.x) integrates a specific epistemology. Geometry, biology, topology, ecology, and semantics are not layered on top of each other. They are embedded into the functional logic of the system. Coherence results from constraint, not accumulation.
+Versioning expresses structural readiness, ontological integration, and developmental alignment. It does not track time. It tracks thresholds of coherence.
 
-Versioning encodes symbolic stages in the system’s evolution. These stages follow a life pattern: seed, form, function, flow, maturation, and regeneration. Each version reflects a threshold that must be crossed before the next becomes structurally viable.
+Each sub-phase (v0.0.x) integrates a specific epistemology into the 7-Field Architecture. Geometry, biology, topology, ecology, and semantics are not added in sequence. They are metabolized into the structural function of the system. Coherence results from constraint, not accumulation.
 
-This logic ensures that CORE does not grow by adding features. It gains depth by integrating epistemic logic into architectural function. Each phase embeds a grammar of life, not a stack of tools. Through versioning, the Ontology deepens coherence rather than expands surface complexity.
+Versioning encodes symbolic stages in the system’s life-pattern: seed, form, function, flow, maturation, and regeneration. Each version reflects a structural threshold that must be crossed before the next becomes viable.
+
+This logic ensures that COHERE gains depth through integration, not complexity through addition. Each phase embeds a grammar of life into the Ontology itself. Versioning is how structural recursion becomes real.

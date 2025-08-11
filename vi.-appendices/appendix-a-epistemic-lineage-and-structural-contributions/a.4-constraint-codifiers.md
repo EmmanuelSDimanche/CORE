@@ -64,7 +64,6 @@ This category frames the outer boundary conditions within which CORE must functi
 
 **Referenced or Resonant (Not Canonically Included):**
 
-* **Daniel Christian Wahl**
-* **Herman Daly**
-
-Wahl’s cultural translation logic and Daly’s ecological economics remain informative but are not structurally embedded in current propagation grammar.
+* **Daniel Schmachtenberger:** Frames the meta-crisis as ontological incoherence and shapes the global constraint logic.
+* **Daniel Christian Wahl:** Cultural translation logic&#x20;
+* **Herman Daly:** Defines ecological economic contraints
