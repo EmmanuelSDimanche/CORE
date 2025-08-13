@@ -62,6 +62,7 @@
   * [Layered Ontological Network Glossary](vi.-appendices/layered-ontological-network-glossary/README.md)
     * [A.1 Canonized Framework of Ontological Layers](vi.-appendices/layered-ontological-network-glossary/a.1-canonized-framework-of-ontological-layers.md)
     * [Diagnostic Instruction Set (v1.0)](vi.-appendices/layered-ontological-network-glossary/diagnostic-instruction-set-v1.0.md)
+  * [COHERE Glossary](vi.-appendices/cohere-glossary.md)
   * [Draft for Revision](vi.-appendices/draft-for-revision/README.md)
     * [draft WHAT is CORE?](vi.-appendices/draft-for-revision/draft-what-is-core.md)
     * [Propagation Logic](vi.-appendices/draft-for-revision/propagation-logic.md)
