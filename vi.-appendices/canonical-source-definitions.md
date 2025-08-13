@@ -7,6 +7,11 @@ description: Appendix B - (Reference Only – Non-Editable)
 **Source: Ackoff & Emery, On Purposeful Systems, pp. 31, 56–58**\
 Note: These entries are preserved verbatim to ensure epistemic fidelity. They are not editable and should not be reformulated or paraphrased elsewhere in the ontology.
 
+**System**
+
+Definition: A system is a whole that cannot be divided into independent parts without the loss of its essential properties or functions.\
+
+
 #### Purposeful System
 
 Definition:\

@@ -23,8 +23,8 @@ Expresses the Foundational commitments as a structural design grammar.
 
 * Core Layer: The bridging layer between universal principles and applied contexts. Translates immutable commitments into an operational grammar for system design.
 * Structural Grammar: The formalized set of structural patterns used to instantiate the Foundational commitments in real systems.
-* 7-Field Architecture: The primary structural grammar of the Core Layer. Seven interdependent Fields define the systemic functions required for coherence (Essence, Tensegrity, Pattern, Structure, Bridge, Rhythm, Seed).
-* Fourteen Organizational Elements (OAO): A complementary structural model defining the necessary roles, functions, and relationships within an organization.
+* The 7FRA7— 7 Fields Recursive Architecture: The primary structural grammar of the Core Layer. COHERE uses 7FRA to express its Foundational Layer commitments as a recursive, repeatable design grammar across all scales.
+* The CORE ontology (**Coherent Organization of Relational Economies**) defines the structural grammar for aligning organizations and value flows across interdependent systems. CORE encodes the principles of systemic coherence into a repeatable design pattern for applied domains.
 * Field Stabilization: The process of fully defining a Field in the Core Layer so it can be reliably applied without redefinition at the Domain Layer.
 * Activation Criteria: The explicit conditions under which a Field is considered “active” in a real-world system.
 * Coherence Audit: A structural evaluation to ensure a system’s design and operation remain in alignment with the Core grammar and Foundational commitments.

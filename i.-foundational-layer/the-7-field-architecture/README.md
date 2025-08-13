@@ -15,12 +15,12 @@ Each field expresses a distinct function that cannot be reduced or substituted. 
 **Field Composition**
 
 1. **Essence** anchors telic identity.
-2. **Polarity** holds systemic tension without collapse.
+2. **Tensegrity** holds systemic tension without collapse.
 3. **Pattern** reveals interactive rhythm and feedback trace.
 4. **Structure** defines topology, symbolic roles, and alignment scaffolding.
 5. **Bridge** enables transformation through coherent translation and feedback processing.
-6. **Context Field** regulates flow, rhythm, and internal relational metabolism.
-7. **Seed of Life** expresses the threshold of coherence replication.
+6. **Rhytm** regulates flow, rhythm, and internal relational metabolism.
+7. **Seed** expresses the threshold of coherence replication.
 
 Each field exists to perform a singular systemic task. None are conceptual categories or phases. The system must hold all seven to propagate without fragmentation.
 
