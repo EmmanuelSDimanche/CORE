@@ -2,7 +2,7 @@
 description: Flow -- Human-Scale Recursion
 ---
 
-# HOW: The 7-Fold Recursive Process
+# The 7-Fold Recursive Process
 
 <mark style="color:orange;">**\<THIS SECTION IS UNDER CONSTRUCTION>**</mark>
 
@@ -20,7 +20,7 @@ Two Fields act as foundational constraints on all movements:
 
 * **Essence (Telic Anchoring)**\
   The Ideal is not invented. It is remembered. Every movement must return to the telic identity the system already holds. Essence is the seed logic beneath perception, coherence, and decision.
-* **Polarity (Tensional Orientation)**\
+* **Tensegrity (Tensional Orientation)**\
   Tensions are not to be solved. They are to be held. Polarity defines the paradoxes that must remain generative. Every movement is filtered through the tensions the system must navigate (e.g., autonomy ↔ collectivity, urgency ↔ patience).
 
 These are gravitational constraints, ontological fields that shape all recursion.\

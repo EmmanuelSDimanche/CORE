@@ -34,6 +34,7 @@
     * [Field 5 – Bridge](i.-foundational-layer/the-7-field-architecture/field-5-bridge.md)
     * [Field 6 – Rhythm](i.-foundational-layer/the-7-field-architecture/field-6-rhythm.md)
     * [Field 7 – Seed](i.-foundational-layer/the-7-field-architecture/field-7-seed.md)
+  * [8-Care Ontology — Field Definition Draft](i.-foundational-layer/8-care-ontology-field-definition-draft.md)
   * [CORE Epistemic Commitments](i.-foundational-layer/core-epistemic-commitments.md)
   * [Theoretical Foundations of CORE](i.-foundational-layer/theoretical-foundations-of-core.md)
 * [II. Core Layer](ii.-core-layer/README.md)
@@ -73,3 +74,4 @@
     * [Draft - subjects to surface](vi.-appendices/draft-for-revision/draft-subjects-to-surface.md)
     * [0.2.6 – What Undermines Recursion](vi.-appendices/draft-for-revision/0.2.6-what-undermines-recursion.md)
     * [0.2.7 – The Structural Causes of Propagation Collapse](vi.-appendices/draft-for-revision/0.2.7-the-structural-causes-of-propagation-collapse.md)
+    * [Inter-Prime Exchange Contract Conformance Template](vi.-appendices/draft-for-revision/inter-prime-exchange-contract-conformance-template.md)
